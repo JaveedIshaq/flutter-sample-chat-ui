@@ -1,4 +1,4 @@
-# everygo
+# Flutter Sample Chat UI
 
 A new Flutter project.
 
